@@ -22,4 +22,4 @@ The dataset used in this project is `weight-height.csv`, which contains the foll
 To run this project, you need to have Python installed. You can install the required dependencies using the following command:
 
 ```bash
-pip install pandas numpy matplotlib scikit-learn
+pip install -r requirements.txt
