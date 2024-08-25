@@ -6,9 +6,6 @@ This project demonstrates a simple linear regression model to predict height bas
 1. [Overview](#overview)
 2. [Dataset](#dataset)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Results](#results)
-6. [License](#license)
 
 ## Overview
 The goal of this project is to explore the relationship between a person's weight and height using a simple linear regression model. We visualize the data, preprocess it, train a linear regression model, and evaluate its performance using various metrics.
